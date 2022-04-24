@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Venus2Mice
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning about .net , asp.net core. 
+-  I hope I can build a web app in the future.
 
 
 <!---
